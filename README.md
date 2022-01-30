@@ -1,3 +1,5 @@
+Corresponding article is at https://medium.com/opentracing/opentracing-on-kubernetes-get-yer-tracing-for-free-7a69cca03c8a
+
 # Auto Tracing Webhook
 
 A kubernetes webhook to automatically instrument any java application with open tracing abilities (without changing a line of code).
